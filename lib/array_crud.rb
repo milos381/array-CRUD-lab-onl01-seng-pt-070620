@@ -23,7 +23,7 @@ end
 
 def remove_element_from_start_of_array(array)
   array = ["cat","dog", "mouse", "hamster"]
-  rarray.shift
+  array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
